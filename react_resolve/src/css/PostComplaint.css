@@ -1,0 +1,11 @@
+.post-complaint-div {
+    color: white;
+}
+.post-complaint-div h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.post-complaint-div span{
+    margin-left: 20px;
+}

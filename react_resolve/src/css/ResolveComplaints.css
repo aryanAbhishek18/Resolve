@@ -1,0 +1,60 @@
+.indiv-complaint-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.indiv-complaint {
+    color: black ;
+    font: 10px;
+    background-color: white;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.indiv-complaint p{
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.resolve-complaints-div {
+    margin-top: 20px;
+}
+.resolve-complaints-div .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resolve-complaints-div label {
+    color: white;
+}
+.resolve-complaints-msg {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.search-buttons-span {
+    margin-left: 20px;
+}
+.all-complaints-div {
+    margin-top: 20px;
+    color: white;
+}
+.all-complaints-div h3 {
+    text-align: center;
+    color: white;
+}
+.pending-complaints-div {
+    margin-top: 30px;
+}
+.resolve-complaints-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resolve-complaints-buttons span {
+    margin: 10px;
+}
+.indiv-complaint-textarea {
+    padding: 10px;
+}
+.indiv-complaint-textarea label {
+    color: black;
+}

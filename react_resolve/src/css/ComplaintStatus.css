@@ -1,0 +1,28 @@
+.complaints-div {
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+}
+.complaints-div h5{
+    margin-top: 40px;
+}
+.indiv-complaint {
+    width: 80%;
+    color: black ;
+    font: 10px;
+    margin: 30px;
+    background-color: white;
+    border: 2px solid transparent;
+    border-radius: 5px;
+}
+.indiv-complaint-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pending-complaints-div {
+    margin-top: 30px;
+}
+.resolved-complaints-div {
+    margin-top: 30px;
+}
